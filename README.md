@@ -1,268 +1,316 @@
-<div align="center">
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-# 🖤 <span style="color:#ff0000">Hi 👋, I'm Harisaran S</span>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=220&section=header&text=HARISARAN%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20AI&descAlignY=58&descSize=17" width="100%"/>
+</p>
 
-### 🚀 Full Stack Developer | Java | React | Spring Boot | AI
+<!-- ===================== ANIMATED CYBER BACKGROUND ===================== -->
 
-<img src="https://komarev.com/ghpvc/?username=harisaran07&label=PROFILE%20VIEWS&color=ff0000&style=for-the-badge" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-<br/>
+<h1 align="center">
+  ⚡ Building Digital Experiences That Feel Alive ⚡
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=180&section=header&text=HARISARAN%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
+</p>
 
-</div>
-
----
+<!-- ===================== PROFILE ===================== -->
 
 ## 🧑‍💻 About Me
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  👨‍💻 Full Stack Developer                                  ║
-║  ☕ Java • Spring Boot • React                              ║
-║  🤖 AI & Generative AI Enthusiast                          ║
-║  🌐 Building Modern & Responsive Web Applications           ║
-║  🚀 Turning Ideas → Real-World Projects                    ║
-║  📚 Constantly Learning & Improving                         ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────┐
+│  👋 Hi, I'm Harisaran S                                  │
+│                                                          │
+│  🎓 B.E. Computer Science Engineering                   │
+│  💻 Full Stack Web Developer                             │
+│  ☕ Java • Spring Boot • React                           │
+│  🤖 AI • Generative AI • Computer Vision                │
+│  🛠️ Building real-world web applications                │
+│  🚀 Interested in Software Engineering opportunities     │
+└──────────────────────────────────────────────────────────┘
 ```
 
-* 🔭 Currently working on **Full Stack Web Development & AI Projects**
-* 🌱 Currently learning **Generative AI**
-* 💻 Interested in **Frontend & Full Stack Development**
-* 🤝 Open to collaborating on **Web Development & AI Projects**
-* 💬 Ask me about **Java, React, Spring Boot, HTML, CSS & Full Stack Development**
-* ⚡ Fun fact: **I enjoy turning complex ideas into simple applications.**
+I enjoy transforming ideas into **interactive, responsive and practical web applications**.
+
+My current focus is on strengthening my skills in **Java Full Stack Development, React, Spring Boot, databases and AI-powered applications**.
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-<div align="center">
+## ⚡ Tech Stack
 
-### 💻 Programming
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
 
-### ⚛️ Frontend
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### ☁️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,firebase,vercel" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,figma,docker&perline=5" />
+</p>
 
 ---
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## ✈️ JourneyNest — Premium Travel Booking Platform
 
-<td width="50%">
+> A full-stack travel platform designed with a premium cinematic UI, immersive animations and secure authentication.
 
-### 🛡️ Raksha
+### ✨ Highlights
 
-AI-powered risk-aware navigation assistance system designed to help visually impaired pedestrians through real-time obstacle detection and audio guidance.
+* 🎬 Dynamic travel video backgrounds
+* 🧊 3D calendar page-flip navigation
+* 🔐 Secure login & signup system
+* 🌗 Light / Dark mode
+* 🎨 Custom 3D CSS animations
+* 📱 Responsive design
+* 🌍 Interactive travel experience
 
-**Tech:** Python • YOLO • OpenCV • FastAPI • AI
+### 🛠️ Technology
 
-</td>
-
-<td width="50%">
-
-### 🌐 Campus Connect
-
-Modern full-stack campus platform with authentication, attendance management, real-time communication, notifications and AI chatbot integration.
-
-**Tech:** React • Node.js • Express • MongoDB • Socket.IO
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💼 Portfolio
-
-A modern developer portfolio showcasing my projects, skills, experience and development journey.
-
-**Tech:** HTML • CSS • JavaScript • React
-
-</td>
-
-<td width="50%">
-
-### ☕ Java Projects
-
-Collection of Java programming, problem-solving and learning projects developed while strengthening my Core Java skills.
-
-**Tech:** Java • OOP • Collections • JDBC • SQL
-
-</td>
-
-</tr>
-</table>
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ---
+
+## 💰 BudgetWise — AI-Driven Expense Tracker & Advisor
+
+> Full-stack expense management application combining React, Spring Boot, MongoDB and Gemini AI.
+
+### ✨ Highlights
+
+* 🔐 Email/password authentication
+* 🤖 Gemini AI validation
+* 📊 Expense dashboard
+* 📩 6-digit OTP password reset
+* ⏱️ OTP expiry system
+* 🗄️ MongoDB user & OTP storage
+* 🌗 Dark / Light authentication theme
+* ⚡ React + Vite frontend
+* ☕ Spring Boot backend
+
+### 🔌 API
+
+```text
+POST /api/auth/signup
+POST /api/auth/login
+POST /api/auth/forgot-password
+POST /api/auth/verify-otp-reset-password
+```
+
+### 🛠️ Technology
+
+`React` `Vite` `Java` `Spring Boot` `MongoDB` `Gemini AI`
+
+---
+
+## 🏌️ Golf Charity Platform — Localization
+
+> Modern full-stack platform connecting golf enthusiasts with charitable causes.
+
+### ✨ Highlights
+
+* 🔐 Supabase Authentication
+* ⛳ Golf score tracking
+* 🏆 Leaderboards
+* ❤️ Charity management
+* 💳 Stripe donations & subscriptions
+* 📊 Admin dashboard
+* 🌍 Localization / i18n
+* ✨ Framer Motion animations
+* 📱 Responsive UI
+
+### 🌐 Localization
+
+```text
+🇬🇧 English — Default
+🇮🇳 Hindi — In Progress
+🇫🇷 French — Planned
+🇪🇸 Spanish — Planned
+```
+
+### 🛠️ Technology
+
+`Next.js` `TypeScript` `Supabase` `Stripe` `Framer Motion` `Lucide React` `CSS Modules`
+
+---
+
+## 🤖 Chatbot
+
+> Lightweight FAQ chatbot built using a clean vanilla JavaScript interface.
+
+### ✨ Highlights
+
+* 💬 Interactive chatbot UI
+* 🧠 FAQ-based responses
+* 📄 JSON-powered knowledge base
+* ⚡ Lightweight implementation
+* 🎨 Custom responsive interface
+
+### 📁 Project Structure
+
+```text
+Chatbot/
+├── app.js
+├── faq_data.json
+├── index.html
+├── styles.css
+└── logo.png
+```
+
+### 🛠️ Technology
+
+`HTML5` `CSS3` `JavaScript` `JSON`
+
+---
+
+<!-- ===================== PROJECT MATRIX ===================== -->
+
+## 🧩 Project Technology Matrix
+
+| Project          | Frontend             | Backend        | Database | AI        |
+| ---------------- | -------------------- | -------------- | -------- | --------- |
+| ✈️ JourneyNest   | HTML / CSS / JS      | Node / Express | MongoDB  | —         |
+| 💰 BudgetWise    | React / Vite         | Spring Boot    | MongoDB  | Gemini AI |
+| 🏌️ Golf Charity | Next.js / TypeScript | Supabase       | Supabase | —         |
+| 🤖 Chatbot       | HTML / CSS / JS      | —              | JSON     | —         |
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harisaran07&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisaran07&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="180"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" height="180"/>
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harisaran07&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="70%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisaran07&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harisaran07&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harisaran07/harisaran07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow in the repository. Setup instructions are provided below.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harisaran07/Harisaran07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harisaran07&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harisaran07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+</p>
 
 ---
 
-# 📌 GitHub Highlights
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<div align="center">
-
-|  📦 Repositories |      ⭐ Stars     |     🔥 Streak     |    💻 Contributions    |
-| :--------------: | :--------------: | :---------------: | :--------------------: |
-| **GitHub Stats** | **GitHub Stats** | **GitHub Streak** | **Contribution Graph** |
-
-</div>
-
----
-
-# 🎯 Current Focus
+# 🎯 Currently Exploring
 
 ```text
-Java                    ███████████████████░  95%
-React.js                ██████████████████░░  90%
-Spring Boot             ████████████████░░░░  80%
-JavaScript              █████████████████░░░  85%
-SQL / MySQL             ███████████████░░░░░  75%
-MongoDB                 ██████████████░░░░░░  70%
-Generative AI           ███████████░░░░░░░░░  55%
-Cloud Technologies      ██████████░░░░░░░░░░  50%
+☕ Java & Core Java
+⚛️ React.js
+🍃 Spring Boot
+🗄️ SQL / MySQL
+🍃 MongoDB
+🤖 Generative AI
+☁️ Cloud Technologies
+🧠 AI-assisted Development
 ```
 
 ---
 
-# 🏅 Certifications & Achievements
+# 🏅 Achievements & Certifications
 
-* 🥉 **3rd Prize – Project Expo, KIOT**
-* ☕ **Infosys Springboard – Java Foundation**
-* 💻 **Infosys Springboard – Java Full Stack Internship**
-* 🧠 **NPTEL – Programming in Java**
-* 🔥 **HackerRank – 100 Days of Java**
-* 🚀 **Smart India Hackathon Participant**
+* 🥉 **3rd Prize — Project Expo, Knowledge Institute of Technology**
+* ☕ **Infosys Springboard — Java Foundation**
+* 💻 **Infosys Springboard — Java Full Stack Internship**
+* 📜 **NPTEL — Programming in Java**
+* 🔥 **HackerRank — 100 Days of Java Challenge**
+* 🏆 **Smart India Hackathon Participant**
 * 🌐 **Website Design & Development Internship**
 
 ---
 
 # 💻 Coding Profiles
 
-<div align="center">
-
-<a href="https://github.com/Harisaran07">
-<img src="https://img.shields.io/badge/GitHub-Harisaran07-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harisaran-s-aaa03933b/">
-<img src="https://img.shields.io/badge/LinkedIn-Harisaran%20S-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/empiresaranempp1">
-<img src="https://img.shields.io/badge/HackerRank-empiresaranempp1-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-</a>
-
-<a href="https://leetcode.com/u/h9ilhvwrso/">
-<img src="https://img.shields.io/badge/LeetCode-h9ilhvwrso-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-### Let's build something awesome together 🚀
-
-<a href="mailto:empiresaranemppiresaran@gmail.com">
-<img src="https://img.shields.io/badge/Email-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harisaran-s-aaa03933b/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://github.com/Harisaran07">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://leetcode.com/u/h9ilhvwrso/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/empiresaranempp1">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=120&section=footer&animation=twinkling"/>
+<p align="center">
 
-### 🖤 Code. Create. Innovate. Repeat. 🔥
+<a href="https://www.linkedin.com/in/harisaran-s-aaa03933b/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-**Harisaran S • Full Stack Developer**
+<a href="mailto:empiresaranemppiresaran@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-</div>
+<a href="https://github.com/Harisaran07">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</p>
+
+---
+
+<!-- ===================== ANIMATED CYBER FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <b>⚡ Code • Create • Learn • Repeat ⚡</b>
+</p>
