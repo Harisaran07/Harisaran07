@@ -1,68 +1,49 @@
-<!-- ========================================================= -->
-
-<!--                    HARISARAN S README                     -->
-
-<!-- ========================================================= -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:180000,50:8B0000,75:180000,100:000000&height=230&section=header&text=HARISARAN%20S&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20SPRING%20BOOT%20%7C%20AI&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=220&section=header&text=HARISARAN%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20AI&descAlignY=58&descSize=17" width="100%"/>
 </p>
+
+<!-- ===================== ANIMATED CYBER BACKGROUND ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=FF1A1A&center=true&vCenter=true&width=800&lines=Building+Digital+Experiences+That+Feel+Alive;Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
+<h1 align="center">
+  ⚡ Building Digital Experiences That Feel Alive ⚡
+</h1>
 
 <p align="center">
-  <b>⚡ CODE • CREATE • LEARN • REPEAT ⚡</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
 </p>
 
----
+<!-- ===================== PROFILE ===================== -->
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 👋 Hi, I'm **Harisaran S**
-
-🎓 B.E. Computer Science Engineering
-
-💻 Full Stack Web Developer
-
-☕ Java • Spring Boot • React
-
-🤖 AI • Generative AI • Computer Vision
-
-🛠️ Building real-world web applications
-
-🚀 Interested in Software Engineering opportunities
-
-</td>
-
-<td width="50%">
+```text
+┌──────────────────────────────────────────────────────────┐
+│  👋 Hi, I'm Harisaran S                                  │
+│                                                          │
+│  🎓 B.E. Computer Science Engineering                   │
+│  💻 Full Stack Web Developer                             │
+│  ☕ Java • Spring Boot • React                           │
+│  🤖 AI • Generative AI • Computer Vision                │
+│  🛠️ Building real-world web applications                │
+│  🚀 Interested in Software Engineering opportunities     │
+└──────────────────────────────────────────────────────────┘
+```
 
 I enjoy transforming ideas into **interactive, responsive and practical web applications**.
 
 My current focus is on strengthening my skills in **Java Full Stack Development, React, Spring Boot, databases and AI-powered applications**.
 
-<br>
-
-```text
-> BUILDING...
-> LEARNING...
-> DEBUGGING...
-> DEPLOYING...
-> REPEATING...
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
-# ⚡ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚡ Tech Stack
 
 <p align="center">
 
@@ -70,11 +51,15 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 </p>
 
-<p align="center">
-  <b>Java • Python • JavaScript • HTML • CSS • React • Spring Boot • Node.js • Express • MongoDB • MySQL • Git • GitHub • VS Code</b>
-</p>
+
 
 ---
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 # 🚀 Featured Projects
 
@@ -114,6 +99,15 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 * ⚡ React + Vite frontend
 * ☕ Spring Boot backend
 
+### 🔌 API
+
+```text
+POST /api/auth/signup
+POST /api/auth/login
+POST /api/auth/forgot-password
+POST /api/auth/verify-otp-reset-password
+```
+
 ### 🛠️ Technology
 
 `React` `Vite` `Java` `Spring Boot` `MongoDB` `Gemini AI`
@@ -122,7 +116,7 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 ## 🏌️ Golf Charity Platform — Localization
 
-> Modern full-stack web platform connecting golf enthusiasts with charitable causes.
+> Modern full-stack platform connecting golf enthusiasts with charitable causes.
 
 ### ✨ Highlights
 
@@ -135,6 +129,15 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 * 🌍 Localization / i18n
 * ✨ Framer Motion animations
 * 📱 Responsive UI
+
+### 🌐 Localization
+
+```text
+🇬🇧 English — Default
+🇮🇳 Hindi — In Progress
+🇫🇷 French — Planned
+🇪🇸 Spanish — Planned
+```
 
 ### 🛠️ Technology
 
@@ -152,7 +155,18 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 * 🧠 FAQ-based responses
 * 📄 JSON-powered knowledge base
 * ⚡ Lightweight implementation
-* 🎨 Responsive interface
+* 🎨 Custom responsive interface
+
+### 📁 Project Structure
+
+```text
+Chatbot/
+├── app.js
+├── faq_data.json
+├── index.html
+├── styles.css
+└── logo.png
+```
 
 ### 🛠️ Technology
 
@@ -160,47 +174,26 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 ---
 
-# 🧩 Project Technology Matrix
+<!-- ===================== PROJECT MATRIX ===================== -->
 
-| 🚀 Project       | 🎨 Frontend          | ⚙️ Backend     | 🗄️ Database | 🤖 AI     |
-| ---------------- | -------------------- | -------------- | ------------ | --------- |
-| ✈️ JourneyNest   | HTML / CSS / JS      | Node / Express | MongoDB      | —         |
-| 💰 BudgetWise    | React / Vite         | Spring Boot    | MongoDB      | Gemini AI |
-| 🏌️ Golf Charity | Next.js / TypeScript | Supabase       | Supabase     | —         |
-| 🤖 Chatbot       | HTML / CSS / JS      | —              | JSON         | —         |
+## 🧩 Project Technology Matrix
 
----
-
-# 🎯 Currently Exploring
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=☕+Java+%26+Core+Java;⚛️+React.js;🍃+Spring+Boot;🗄️+SQL+%2F+MySQL;🍃+MongoDB;🤖+Generative+AI;🧠+AI-Assisted+Development" />
-</p>
+| Project          | Frontend             | Backend        | Database | AI        |
+| ---------------- | -------------------- | -------------- | -------- | --------- |
+| ✈️ JourneyNest   | HTML / CSS / JS      | Node / Express | MongoDB  | —         |
+| 💰 BudgetWise    | React / Vite         | Spring Boot    | MongoDB  | Gemini AI |
+| 🏌️ Golf Charity | Next.js / TypeScript | Supabase       | Supabase | —         |
+| 🤖 Chatbot       | HTML / CSS / JS      | —              | JSON     | —         |
 
 ---
 
-# 🏅 Achievements & Certifications
-
-| 🏆 | Achievement                                                     |
-| -- | --------------------------------------------------------------- |
-| 🥉 | **3rd Prize — Project Expo, Knowledge Institute of Technology** |
-| ☕  | **Infosys Springboard — Java Foundation**                       |
-| 💻 | **Infosys Springboard — Java Full Stack Internship**            |
-| 📜 | **NPTEL — Programming in Java**                                 |
-| 🔥 | **HackerRank — 100 Days of Java Challenge**                     |
-| 🏆 | **Smart India Hackathon Participant**                           |
-| 🌐 | **Website Design & Development Internship**                     |
-
----
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF1A1A&icon_color=FF1A1A&text_color=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF1A1A&text_color=FFFFFF" width="48%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" height="180"/>
 </p>
 
 ---
@@ -208,10 +201,61 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA" width="70%"/>
-
+  <img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
 </p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harisaran07&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harisaran07/Harisaran07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harisaran07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+</p>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+# 🎯 Currently Exploring
+
+```text
+☕ Java & Core Java
+⚛️ React.js
+🍃 Spring Boot
+🗄️ SQL / MySQL
+🍃 MongoDB
+🤖 Generative AI
+☁️ Cloud Technologies
+🧠 AI-assisted Development
+```
+
+---
+
+# 🏅 Achievements & Certifications
+
+* 🥉 **3rd Prize — Project Expo, Knowledge Institute of Technology**
+* ☕ **Infosys Springboard — Java Foundation**
+* 💻 **Infosys Springboard — Java Full Stack Internship**
+* 📜 **NPTEL — Programming in Java**
+* 🔥 **HackerRank — 100 Days of Java Challenge**
+* 🏆 **Smart India Hackathon Participant**
+* 🌐 **Website Design & Development Internship**
 
 ---
 
@@ -220,15 +264,15 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 <p align="center">
 
 <a href="https://github.com/Harisaran07">
-<img src="https://img.shields.io/badge/GitHub-Harisaran07-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/h9ilhvwrso/">
-<img src="https://img.shields.io/badge/LeetCode-h9ilhvwrso-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/empiresaranempp1">
-<img src="https://img.shields.io/badge/HackerRank-empiresaranempp1-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 </p>
@@ -240,75 +284,31 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 <p align="center">
 
 <a href="https://www.linkedin.com/in/harisaran-s-aaa03933b/">
-<img src="https://img.shields.io/badge/LinkedIn-Harisaran%20S-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:empiresaranemppiresaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/Harisaran07">
-<img src="https://img.shields.io/badge/GitHub-Harisaran07-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </p>
 
 ---
 
-# 🧠 Developer Mode
+<!-- ===================== ANIMATED CYBER FOOTER ===================== -->
 
 <p align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                  SYSTEM STATUS : ONLINE                      ║
-║                                                              ║
-║       JAVA          ████████████████████░░                   ║
-║       REACT         ██████████████████░░░░                   ║
-║       SPRING BOOT   ████████████████░░░░░░                   ║
-║       DATABASE      ███████████████░░░░░░░                   ║
-║       AI            ████████████░░░░░░░░░░                   ║
-║                                                              ║
-║                   ⚡ KEEP BUILDING ⚡                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</p>
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-**📧 [empiresaranemppiresaran@gmail.com](mailto:empiresaranemppiresaran@gmail.com)**
-
-**💻 github.com/Harisaran07**
-
-**🔗 linkedin.com/in/harisaran-s-aaa03933b**
-
-</p>
-
----
-
-<!-- ========================================================= -->
-
-<!--                  ANIMATED THANK YOU                        -->
-
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=FF1A1A&center=true&vCenter=true&width=800&lines=⚡+THANKS+FOR+VISITING+MY+PROFILE!+⚡;🚀+KEEP+BUILDING+%7C+KEEP+LEARNING+🚀;❤️+SEE+YOU+IN+THE+NEXT+PROJECT+❤️" />
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:180000,50:8B0000,75:180000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <b>⚡ CODE • CREATE • INNOVATE • REPEAT ⚡</b>
+  <b>⚡ Code • Create • Learn • Repeat ⚡</b>
 </p>
