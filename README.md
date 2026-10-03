@@ -1,26 +1,24 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ========================================================= -->
+
+<!--                    ANIMATED HEADER                         -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=220&section=header&text=HARISARAN%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20AI&descAlignY=58&descSize=17" width="100%"/>
 </p>
 
-<!-- ===================== ANIMATED CYBER BACKGROUND ===================== -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <b>⚡ BUILD • CREATE • LEARN • REPEAT ⚡</b>
 </p>
-
-<h1 align="center">
-  ⚡ Building Digital Experiences That Feel Alive ⚡
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
 </p>
 
-<!-- ===================== PROFILE ===================== -->
+---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
@@ -41,9 +39,7 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -52,16 +48,12 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,figma,docker&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,figma,docker&perline=5" />
+
 </p>
 
 ---
-
-<!-- ===================== ANIMATED DIVIDER ===================== -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
 
 # 🚀 Featured Projects
 
@@ -82,6 +74,25 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 ### 🛠️ Technology
 
 `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose`
+
+### 🔥 Key Implementation
+
+```text
+Frontend
+ ├── HTML5
+ ├── CSS3
+ ├── JavaScript
+ └── Custom 3D Animations
+
+Backend
+ ├── Node.js
+ ├── Express.js
+ ├── MongoDB
+ └── Mongoose
+
+Security
+ └── bcrypt Password Hashing
+```
 
 ---
 
@@ -105,8 +116,11 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 ```text
 POST /api/auth/signup
+
 POST /api/auth/login
+
 POST /api/auth/forgot-password
+
 POST /api/auth/verify-otp-reset-password
 ```
 
@@ -114,11 +128,33 @@ POST /api/auth/verify-otp-reset-password
 
 `React` `Vite` `Java` `Spring Boot` `MongoDB` `Gemini AI`
 
+### 📁 Structure
+
+```text
+BudgetWise
+│
+├── backend
+│   └── src/main/java/com/budgetwise
+│       ├── config
+│       ├── controller
+│       ├── dto
+│       ├── model
+│       ├── repository
+│       ├── service
+│       └── validation
+│
+└── frontend
+    └── src
+        ├── api
+        ├── pages
+        └── App.jsx
+```
+
 ---
 
 ## 🏌️ Golf Charity Platform — Localization
 
-> Modern full-stack platform connecting golf enthusiasts with charitable causes.
+> Modern full-stack web platform connecting golf enthusiasts with charitable causes.
 
 ### ✨ Highlights
 
@@ -136,14 +172,29 @@ POST /api/auth/verify-otp-reset-password
 
 ```text
 🇬🇧 English — Default
+
 🇮🇳 Hindi — In Progress
+
 🇫🇷 French — Planned
+
 🇪🇸 Spanish — Planned
 ```
 
 ### 🛠️ Technology
 
 `Next.js` `TypeScript` `Supabase` `Stripe` `Framer Motion` `Lucide React` `CSS Modules`
+
+### 📁 Structure
+
+```text
+app/
+├── components/
+├── context/
+├── lib/
+├── styles/
+└── supabase/
+    └── migrations/
+```
 
 ---
 
@@ -157,12 +208,13 @@ POST /api/auth/verify-otp-reset-password
 * 🧠 FAQ-based responses
 * 📄 JSON-powered knowledge base
 * ⚡ Lightweight implementation
-* 🎨 Custom responsive interface
+* 🎨 Responsive interface
 
 ### 📁 Project Structure
 
 ```text
 Chatbot/
+│
 ├── app.js
 ├── faq_data.json
 ├── index.html
@@ -176,9 +228,7 @@ Chatbot/
 
 ---
 
-<!-- ===================== PROJECT MATRIX ===================== -->
-
-## 🧩 Project Technology Matrix
+# 🧩 Project Technology Matrix
 
 | Project          | Frontend             | Backend        | Database | AI        |
 | ---------------- | -------------------- | -------------- | -------- | --------- |
@@ -189,13 +239,14 @@ Chatbot/
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="48%"/>
+
 </p>
 
 ---
@@ -203,48 +254,31 @@ Chatbot/
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
+
+<img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
+
 </p>
 
 ---
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harisaran07&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harisaran07/Harisaran07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harisaran07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
-</p>
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
 
 # 🎯 Currently Exploring
 
 ```text
 ☕ Java & Core Java
+
 ⚛️ React.js
+
 🍃 Spring Boot
+
 🗄️ SQL / MySQL
+
 🍃 MongoDB
+
 🤖 Generative AI
+
 ☁️ Cloud Technologies
-🧠 AI-assisted Development
+
+🧠 AI-Assisted Development
 ```
 
 ---
@@ -301,16 +335,42 @@ Chatbot/
 
 ---
 
-<!-- ===================== ANIMATED CYBER FOOTER ===================== -->
+# 🐉 Developer Mode
+
+```text
+██████████████████████████████████████████████████████████
+
+                 SYSTEM STATUS : ONLINE
+
+       JAVA       ████████████████████░░
+       REACT      ██████████████████░░░░
+       SPRING     ████████████████░░░░░░
+       DATABASE   ███████████████░░░░░░░
+       AI         ████████████░░░░░░░░░░
+
+                 ⚡ KEEP BUILDING ⚡
+
+██████████████████████████████████████████████████████████
+```
+
+---
+
+# 📫 Contact
+
+**Email:** `empiresaranemppiresaran@gmail.com`
+
+**GitHub:** `github.com/Harisaran07`
+
+**LinkedIn:** `linkedin.com/in/harisaran-s-aaa03933b`
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<b>⚡ Thanks for visiting my profile! ⚡</b>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <b>⚡ Code • Create • Learn • Repeat ⚡</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer" width="100%"/>
 </p>
