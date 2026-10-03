@@ -208,24 +208,35 @@ Chatbot/
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harisaran07&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+<h2 align="center">📊 Contribution Activity</h2>
 
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/ff0000/Harisaran07"
+    alt="Harisaran07 GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harisaran07/Harisaran07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=Harisaran07" width="100%" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harisaran07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&hide_border=true&theme=dark&include_all_commits=true"
+    width="100%"
+    alt="GitHub Achievements"
+  />
 </p>
 
 ---
@@ -306,6 +317,7 @@ Chatbot/
 </p>
 
 <p align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
