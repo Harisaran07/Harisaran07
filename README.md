@@ -1,41 +1,64 @@
 <!-- ========================================================= -->
 
-<!--                    ANIMATED HEADER                         -->
+<!--                    HARISARAN S README                     -->
 
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=220&section=header&text=HARISARAN%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20AI&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:180000,50:8B0000,75:180000,100:000000&height=230&section=header&text=HARISARAN%20S&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20JAVA%20%7C%20REACT%20%7C%20SPRING%20BOOT%20%7C%20AI&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <b>⚡ BUILD • CREATE • LEARN • REPEAT ⚡</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=FF1A1A&center=true&vCenter=true&width=800&lines=Building+Digital+Experiences+That+Feel+Alive;Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Frontend+%26+Backend+Explorer;AI+%26+Generative+AI+Enthusiast;Always+Learning.+Always+Building." />
+  <b>⚡ CODE • CREATE • LEARN • REPEAT ⚡</b>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  👋 Hi, I'm Harisaran S                                  │
-│                                                          │
-│  🎓 B.E. Computer Science Engineering                   │
-│  💻 Full Stack Web Developer                             │
-│  ☕ Java • Spring Boot • React                           │
-│  🤖 AI • Generative AI • Computer Vision                │
-│  🛠️ Building real-world web applications                │
-│  🚀 Interested in Software Engineering opportunities     │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👋 Hi, I'm **Harisaran S**
+
+🎓 B.E. Computer Science Engineering
+
+💻 Full Stack Web Developer
+
+☕ Java • Spring Boot • React
+
+🤖 AI • Generative AI • Computer Vision
+
+🛠️ Building real-world web applications
+
+🚀 Interested in Software Engineering opportunities
+
+</td>
+
+<td width="50%">
 
 I enjoy transforming ideas into **interactive, responsive and practical web applications**.
 
 My current focus is on strengthening my skills in **Java Full Stack Development, React, Spring Boot, databases and AI-powered applications**.
+
+<br>
+
+```text
+> BUILDING...
+> LEARNING...
+> DEBUGGING...
+> DEPLOYING...
+> REPEATING...
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,9 +71,7 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 </p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,figma,docker&perline=5" />
-
+  <b>Java • Python • JavaScript • HTML • CSS • React • Spring Boot • Node.js • Express • MongoDB • MySQL • Git • GitHub • VS Code</b>
 </p>
 
 ---
@@ -75,25 +96,6 @@ My current focus is on strengthening my skills in **Java Full Stack Development,
 
 `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose`
 
-### 🔥 Key Implementation
-
-```text
-Frontend
- ├── HTML5
- ├── CSS3
- ├── JavaScript
- └── Custom 3D Animations
-
-Backend
- ├── Node.js
- ├── Express.js
- ├── MongoDB
- └── Mongoose
-
-Security
- └── bcrypt Password Hashing
-```
-
 ---
 
 ## 💰 BudgetWise — AI-Driven Expense Tracker & Advisor
@@ -112,43 +114,9 @@ Security
 * ⚡ React + Vite frontend
 * ☕ Spring Boot backend
 
-### 🔌 API
-
-```text
-POST /api/auth/signup
-
-POST /api/auth/login
-
-POST /api/auth/forgot-password
-
-POST /api/auth/verify-otp-reset-password
-```
-
 ### 🛠️ Technology
 
 `React` `Vite` `Java` `Spring Boot` `MongoDB` `Gemini AI`
-
-### 📁 Structure
-
-```text
-BudgetWise
-│
-├── backend
-│   └── src/main/java/com/budgetwise
-│       ├── config
-│       ├── controller
-│       ├── dto
-│       ├── model
-│       ├── repository
-│       ├── service
-│       └── validation
-│
-└── frontend
-    └── src
-        ├── api
-        ├── pages
-        └── App.jsx
-```
 
 ---
 
@@ -168,33 +136,9 @@ BudgetWise
 * ✨ Framer Motion animations
 * 📱 Responsive UI
 
-### 🌐 Localization
-
-```text
-🇬🇧 English — Default
-
-🇮🇳 Hindi — In Progress
-
-🇫🇷 French — Planned
-
-🇪🇸 Spanish — Planned
-```
-
 ### 🛠️ Technology
 
 `Next.js` `TypeScript` `Supabase` `Stripe` `Framer Motion` `Lucide React` `CSS Modules`
-
-### 📁 Structure
-
-```text
-app/
-├── components/
-├── context/
-├── lib/
-├── styles/
-└── supabase/
-    └── migrations/
-```
 
 ---
 
@@ -210,18 +154,6 @@ app/
 * ⚡ Lightweight implementation
 * 🎨 Responsive interface
 
-### 📁 Project Structure
-
-```text
-Chatbot/
-│
-├── app.js
-├── faq_data.json
-├── index.html
-├── styles.css
-└── logo.png
-```
-
 ### 🛠️ Technology
 
 `HTML5` `CSS3` `JavaScript` `JSON`
@@ -230,12 +162,34 @@ Chatbot/
 
 # 🧩 Project Technology Matrix
 
-| Project          | Frontend             | Backend        | Database | AI        |
-| ---------------- | -------------------- | -------------- | -------- | --------- |
-| ✈️ JourneyNest   | HTML / CSS / JS      | Node / Express | MongoDB  | —         |
-| 💰 BudgetWise    | React / Vite         | Spring Boot    | MongoDB  | Gemini AI |
-| 🏌️ Golf Charity | Next.js / TypeScript | Supabase       | Supabase | —         |
-| 🤖 Chatbot       | HTML / CSS / JS      | —              | JSON     | —         |
+| 🚀 Project       | 🎨 Frontend          | ⚙️ Backend     | 🗄️ Database | 🤖 AI     |
+| ---------------- | -------------------- | -------------- | ------------ | --------- |
+| ✈️ JourneyNest   | HTML / CSS / JS      | Node / Express | MongoDB      | —         |
+| 💰 BudgetWise    | React / Vite         | Spring Boot    | MongoDB      | Gemini AI |
+| 🏌️ Golf Charity | Next.js / TypeScript | Supabase       | Supabase     | —         |
+| 🤖 Chatbot       | HTML / CSS / JS      | —              | JSON         | —         |
+
+---
+
+# 🎯 Currently Exploring
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=FF3333&center=true&vCenter=true&width=700&lines=☕+Java+%26+Core+Java;⚛️+React.js;🍃+Spring+Boot;🗄️+SQL+%2F+MySQL;🍃+MongoDB;🤖+Generative+AI;🧠+AI-Assisted+Development" />
+</p>
+
+---
+
+# 🏅 Achievements & Certifications
+
+| 🏆 | Achievement                                                     |
+| -- | --------------------------------------------------------------- |
+| 🥉 | **3rd Prize — Project Expo, Knowledge Institute of Technology** |
+| ☕  | **Infosys Springboard — Java Foundation**                       |
+| 💻 | **Infosys Springboard — Java Full Stack Internship**            |
+| 📜 | **NPTEL — Programming in Java**                                 |
+| 🔥 | **HackerRank — 100 Days of Java Challenge**                     |
+| 🏆 | **Smart India Hackathon Participant**                           |
+| 🌐 | **Website Design & Development Internship**                     |
 
 ---
 
@@ -243,9 +197,9 @@ Chatbot/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF1A1A&icon_color=FF1A1A&text_color=FFFFFF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harisaran07&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF1A1A&text_color=FFFFFF" width="48%"/>
 
 </p>
 
@@ -255,43 +209,9 @@ Chatbot/
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Harisaran07&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=AAAAAA" width="70%"/>
 
 </p>
-
----
-
-# 🎯 Currently Exploring
-
-```text
-☕ Java & Core Java
-
-⚛️ React.js
-
-🍃 Spring Boot
-
-🗄️ SQL / MySQL
-
-🍃 MongoDB
-
-🤖 Generative AI
-
-☁️ Cloud Technologies
-
-🧠 AI-Assisted Development
-```
-
----
-
-# 🏅 Achievements & Certifications
-
-* 🥉 **3rd Prize — Project Expo, Knowledge Institute of Technology**
-* ☕ **Infosys Springboard — Java Foundation**
-* 💻 **Infosys Springboard — Java Full Stack Internship**
-* 📜 **NPTEL — Programming in Java**
-* 🔥 **HackerRank — 100 Days of Java Challenge**
-* 🏆 **Smart India Hackathon Participant**
-* 🌐 **Website Design & Development Internship**
 
 ---
 
@@ -300,15 +220,15 @@ Chatbot/
 <p align="center">
 
 <a href="https://github.com/Harisaran07">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Harisaran07-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://leetcode.com/u/h9ilhvwrso/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LeetCode-h9ilhvwrso-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/empiresaranempp1">
-<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<img src="https://img.shields.io/badge/HackerRank-empiresaranempp1-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 </p>
@@ -320,57 +240,75 @@ Chatbot/
 <p align="center">
 
 <a href="https://www.linkedin.com/in/harisaran-s-aaa03933b/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Harisaran%20S-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:empiresaranemppiresaran@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/Harisaran07">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Harisaran07-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </p>
 
 ---
 
-# 🐉 Developer Mode
+# 🧠 Developer Mode
+
+<p align="center">
 
 ```text
-██████████████████████████████████████████████████████████
-
-                 SYSTEM STATUS : ONLINE
-
-       JAVA       ████████████████████░░
-       REACT      ██████████████████░░░░
-       SPRING     ████████████████░░░░░░
-       DATABASE   ███████████████░░░░░░░
-       AI         ████████████░░░░░░░░░░
-
-                 ⚡ KEEP BUILDING ⚡
-
-██████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  SYSTEM STATUS : ONLINE                      ║
+║                                                              ║
+║       JAVA          ████████████████████░░                   ║
+║       REACT         ██████████████████░░░░                   ║
+║       SPRING BOOT   ████████████████░░░░░░                   ║
+║       DATABASE      ███████████████░░░░░░░                   ║
+║       AI            ████████████░░░░░░░░░░                   ║
+║                                                              ║
+║                   ⚡ KEEP BUILDING ⚡                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+</p>
 
 ---
 
 # 📫 Contact
 
-**Email:** `empiresaranemppiresaran@gmail.com`
+<p align="center">
 
-**GitHub:** `github.com/Harisaran07`
+**📧 [empiresaranemppiresaran@gmail.com](mailto:empiresaranemppiresaran@gmail.com)**
 
-**LinkedIn:** `linkedin.com/in/harisaran-s-aaa03933b`
+**💻 github.com/Harisaran07**
+
+**🔗 linkedin.com/in/harisaran-s-aaa03933b**
+
+</p>
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                  ANIMATED THANK YOU                        -->
+
+<!-- ========================================================= -->
+
 <p align="center">
 
-<b>⚡ Thanks for visiting my profile! ⚡</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=FF1A1A&center=true&vCenter=true&width=800&lines=⚡+THANKS+FOR+VISITING+MY+PROFILE!+⚡;🚀+KEEP+BUILDING+%7C+KEEP+LEARNING+🚀;❤️+SEE+YOU+IN+THE+NEXT+PROJECT+❤️" />
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:180000,50:8B0000,75:180000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <b>⚡ CODE • CREATE • INNOVATE • REPEAT ⚡</b>
 </p>
