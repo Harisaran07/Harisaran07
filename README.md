@@ -225,21 +225,8 @@ Chatbot/
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=Harisaran07" width="100%" alt="GitHub Contribution Snake"/>
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Harisaran07&show_icons=true&hide_border=true&theme=dark&include_all_commits=true"
-    width="100%"
-    alt="GitHub Achievements"
-  />
-</p>
-
----
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
