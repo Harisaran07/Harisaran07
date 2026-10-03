@@ -317,8 +317,11 @@ Chatbot/
 </p>
 
 <p align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:3b0000,65:8B0000,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:180000,50:8B0000,75:180000,100:000000&height=200&section=footer&text=THANKS%20FOR%20VISITING%20MY%20PROFILE!&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62"
+    width="100%"
+    alt="Thanks for visiting my profile"
+  />
 </p>
 
 <p align="center">
